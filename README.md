@@ -14,7 +14,7 @@ The project focuses on accessibility, sustainability, and efficient design, offe
 <br />
 
 
-<h2>Skilled Leanred Used</h2>
+<h2>Skilled Learned/Utilized</h2>
 
 - <b>Solidworks</b> 
 - <b>Machining Skills for Wood and Metal </b>
