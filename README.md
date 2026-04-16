@@ -6,7 +6,7 @@ Diagram of Completed Product: <br/>
 <br />
 
 <h2>Description</h2>
-The Aquatic Floating Garden (AFG) is a floating gardening system designed for individuals and communities with access to freshwater who want to grow their own produce. Created in response to rising food costs and limited growing space, the system provides an alternative way to support small-scale, sustainable food production.
+The Autonomous Floating Garden (AFG) is a floating gardening system designed for individuals and communities with access to freshwater who want to grow their own produce. Created in response to rising food costs and limited growing space, the system provides an alternative way to support small-scale, sustainable food production.
 
 Designed to float securely on lakes or ponds, the AFG allows users to cultivate plants without requiring traditional land-based gardens. An integrated automated irrigation system with moisture sensing helps maintain consistent hydration while minimizing maintenance.
 
